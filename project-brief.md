@@ -23,3 +23,6 @@ Seabed slope drives a lot of subsea pipeline routing cost and risk. Steeper slop
 - **Coastline, for reference and orientation**  
   Source: https://www.naturalearthdata.com
 
+# What I would build
+
+A slope classification map covering the offshore corridor south of Lagos, built in QGIS from the GEBCO bathymetry. Slopes would be grouped into gentle, moderate, and steep classes and overlaid with the Nigeria EEZ boundary, so the output is a single map layer a routing engineer could open and use to shortlist corridors before commissioning site surveys. Longer term, this could become an interactive layer where a user clicks a candidate corridor and sees its average slope and length.
